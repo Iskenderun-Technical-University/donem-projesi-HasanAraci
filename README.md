@@ -20,3 +20,7 @@ Sonuç olarak, diş poliklinikleri için hekimlerin malzemelerin adetini ve son 
 3- Son Kullanma Tarihleri  <br />
 4- Kullanıcı isimleri ve Kullanıcı Parolaları  <br />
 5- Müşteri isimleri ve ID numaraları <br />
+
+
+06-Mayıs-23: README.md eklendi.
+07-Mayıs-23: README.md güncellendi.
