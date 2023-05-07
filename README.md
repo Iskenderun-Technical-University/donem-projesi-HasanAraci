@@ -19,3 +19,4 @@ Sonuç olarak, diş poliklinikleri için hekimlerin malzemelerin adetini ve son 
 2- Malzeme Adetleri  <br />
 3- Son Kullanma Tarihleri  <br />
 4- Kullanıcı isimleri ve Kullanıcı Parolaları  <br />
+5- Müşteri isimleri ve ID numaraları <br />
