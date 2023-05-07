@@ -15,7 +15,7 @@ Ayrıca, bu program sayesinde hekimlerin iş yükü de azalır. Çünkü, manuel
 Sonuç olarak, diş poliklinikleri için hekimlerin malzemelerin adetini ve son kullanma tarihlerini takip etmelerini sağlayacak bir programın önemi oldukça büyüktür. Bu program sayesinde, hekimlerin iş yükü azalacak, malzemelerin doğru yönetimi sağlanacak ve hasta güvenliği artırılacaktır.
 
 ## Kullanılması Öngörülen Tablolar Nedir?
-1- Malzeme Cinsleri:
-2- Malzeme Adetleri:
-3- Son Kullanma Tarihleri:
-4- Kullanıcı isimleri ve Kullanıcı Parolaları:
+1- Malzeme Cinsleri <br />
+2- Malzeme Adetleri  <br />
+3- Son Kullanma Tarihleri  <br />
+4- Kullanıcı isimleri ve Kullanıcı Parolaları  <br />
