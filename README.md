@@ -22,5 +22,5 @@ Sonuç olarak, diş poliklinikleri için hekimlerin malzemelerin adetini ve son 
 5- Müşteri isimleri ve ID numaraları <br />
 
 
-06-Mayıs-23: README.md eklendi.
-07-Mayıs-23: README.md güncellendi.
+06-Mayıs-23: README.md eklendi. <br />
+07-Mayıs-23: README.md güncellendi. <br />
