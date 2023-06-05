@@ -1,27 +1,26 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/uelKf0-p)
-# Diş Polikliniği Malzeme Yönetimi Programı 
+# Hastane Randevu, Muayene ve Reçete Otomasyonu 
 
 ## Motivasyonunuz Nedir?
 
-Diş sağlığı sektörünün teknolojik olarak bu konuda yeterince gelişmemiş olduğunu düşünüyorum. Etrafımda ki diş hekimi arkadaşlarımın ve öğrencilerin yaşadığı problemleri minimum seviyeye indirgemek ve zamanında insanlardan duyduğum ve yaşadığım problemlerin başkasının yaşamamasını sağlamak için projemde bu konuyu belirledim.
+Sağlık sektöründe hizmet sunan hastanelerdeki randevu, muayene ve reçete süreçlerinin genellikle karmaşık ve zaman alıcı olduğunu gözlemledim. Bu süreçlerde yaşanan sıkıntıları ve gecikmeleri minimum seviyeye indirerek hem sağlık çalışanlarının hem de hastaların deneyimini iyileştirmek ve sağlık hizmetlerini daha etkin bir şekilde yönetmek amacıyla bu projeyi geliştirdim.
 
 ## Projenizin Amaçları Nelerdir?
 
-Diş hekimlerinin işlerinde en önemli faktörlerden biri malzeme yönetimidir. Doğru malzeme yönetimi, hasta memnuniyeti ve güvenliği açısından hayati önem taşır. Bu nedenle, diş poliklinikleri için hekimlerin malzemelerin adetini ve son kullanma tarihlerini takip etmelerini sağlayacak bir program yapmak oldukça önemlidir.
+Hastane Randevu, Muayene ve Reçete Otomasyonu programının amacı, hastaların randevu almak, muayene olmak ve reçetelerini düzenlemek gibi süreçleri daha hızlı, kolay ve verimli bir şekilde yönetmelerini sağlamaktır.
 
-Bu program sayesinde hekimler, klinikteki tüm malzemelerin adetlerini ve son kullanma tarihlerini kolayca takip edebilirler. Bu da, malzemelerin yeterli olup olmadığını ve tarihlerinin geçip geçmediğini görmelerini sağlar. Böylece, malzemelerin zamanında yenilenmesi ve eksikliklerin tespit edilmesi için gerekli önlemlerin alınması mümkün olur.
+Bu program sayesinde hastalar, internet üzerinden randevu alabilecek ve istedikleri tarih ve saatte doktorlarıyla görüşebilecekler. Randevu takvimi otomatik olarak güncellenerek çakışmaların önüne geçilecek ve hem hastaların hem de doktorların zamanı daha iyi kullanılacak.
 
-Ayrıca, bu program sayesinde hekimlerin iş yükü de azalır. Çünkü, manuel olarak malzemelerin adetlerini ve son kullanma tarihlerini takip etmek oldukça zahmetli bir işlemdir. Bu program sayesinde hekimler, bu işlemleri otomatikleştirerek daha fazla zaman kazanabilirler.
+Muayene sırasında, program hasta bilgilerini depolayacak ve doktorlara anlık erişim sağlayacak. Bu sayede, doktorlar hastaların geçmiş muayene sonuçlarına ve tıbbi geçmişlerine kolayca ulaşabilecek, tekrarlayan testlerin önüne geçebilecek ve daha doğru teşhis ve tedavi planlaması yapabilecekler.
 
-Sonuç olarak, diş poliklinikleri için hekimlerin malzemelerin adetini ve son kullanma tarihlerini takip etmelerini sağlayacak bir programın önemi oldukça büyüktür. Bu program sayesinde, hekimlerin iş yükü azalacak, malzemelerin doğru yönetimi sağlanacak ve hasta güvenliği artırılacaktır.
+Reçete düzenleme aşamasında ise program, doktorlara ilaç etkileşimleri, alerjiler ve dozajlar gibi önemli bilgileri hatırlatarak hatalı reçete yazımını engelleyecek. Aynı zamanda, hastaların reçetelerini elektronik olarak alabilmelerini ve eczanelerde daha hızlı işlem yapabilmelerini sağlayacak.
+
+Bu otomasyon programı aynı zamanda hastanelerdeki veri yönetimini de kolaylaştıracak. Hasta kayıtları, muayene sonuçları ve reçeteler gibi veriler elektronik olarak saklanacak ve istendiğinde hızlıca erişilebilecek. Bu da sağlık çalışanlarının verilere daha güvenli ve etkili bir şekilde erişmelerini sağlayacak.
+
+Sonuç olarak, Hastane Randevu, Muayene ve Reçete Otomasyonu programı, hastanelerdeki randevu, muayene ve reçete süreçlerini kolaylaştırarak hem sağlık çalışanlarının iş yükünü azaltacak hem de hastaların hizmet alımını daha verimli hale getirecektir. Bu program sayesinde randevu alma süreci daha hızlı olacak, muayeneler
 
 ## Kullanılması Öngörülen Tablolar Nedir?
-1- Malzeme Cinsleri <br />
-2- Malzeme Adetleri  <br />
-3- Son Kullanma Tarihleri  <br />
-4- Kullanıcı isimleri ve Kullanıcı Parolaları  <br />
-5- Müşteri isimleri ve ID numaraları <br />
-
-
-06-Mayıs-23: README.md eklendi. <br />
-07-Mayıs-23: README.md güncellendi. <br />
+1- Hasta Bilgileri <br />
+2- Muayene Bilgileir  <br />
+3- Reçete Raporları  <br />
+4- Muayene Listesi  <br />
